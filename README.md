@@ -1,2 +1,1 @@
-# Translatore
-MyTranslatore
+# Translator
